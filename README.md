@@ -1,5 +1,4 @@
-- 👋 Sebastian Pruchnik Profile
-- 👀 I’m interested in Data Science
+Sebastian Pruchnik Profile
 
 <!---
 1Ferst/1Ferst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
