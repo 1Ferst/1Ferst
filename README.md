@@ -6,7 +6,6 @@
 - 🛠️ Bulldozer Price Prediction – time series regression on heavy equipment sales
 - 📊 Credit Card Segmentation – unsupervised clustering with autoencoders
 - 🏠 Housing Price Prediction – regression with feature analysis
-- 🛰️ Space Missions EDA – interactive data visualizations
 
 📫 Let's connect:
 - [LinkedIn](https://www.linkedin.com/in/sebastian-pruchnik-93b4bb262/)  
